@@ -30,18 +30,12 @@ Nós somos eternos, toda essa dor é uma ilusão."_ — Parabola, Tool.
 
 ---
 
-## 📊 GitHub Activity Overview | Resumo da minha atividade no GitHub
+## Ferramentas e Tecnologias 👨‍💻
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lukakau&theme=microsoft-dark&locale=pt_BR)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Top Languages Overview | Resumo das linguagens no GitHub
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lukakau&layout=compact&bg_color=0D1117&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
-
----
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
+          
+          
+  
 ## 📊 GitHub Stats Overview | Resumo do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukakau&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
