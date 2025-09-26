@@ -20,7 +20,7 @@ We are eternal, all this pain is an illusion."_ — Parabola, Tool.
 ---
 
 ### Olá pessoal! 😄🤙
-- 👨🏻 **19 Anos de idade**
+- 👨🏻 **20 Anos de idade**
 - 🏠 **Morando em Colombo, PR (Brasil)**
 - 📚 **Cursando Análise e Desenvolvimento de Sistemas**
 
