@@ -10,7 +10,7 @@
 
 ### Hi everyone! 😄🤙
 - 👨🏻 **20 Years old**
-- 🏠 **Living in Pinhais, PR (Brazil)**
+- 🏠 **Living in Colombo, PR (Brazil)**
 - 📚 **Graduating in Systems Analysis and Development**
 
 _"This body holding me reminds me of my own mortality
