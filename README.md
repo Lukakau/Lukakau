@@ -9,7 +9,7 @@
 ---
 
 ### Hi everyone! 😄🤙
-- 👨🏻 **19 Years old**
+- 👨🏻 **20 Years old**
 - 🏠 **Living in Pinhais, PR (Brazil)**
 - 📚 **Graduating in Systems Analysis and Development**
 
